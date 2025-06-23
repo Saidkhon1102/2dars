@@ -12,7 +12,7 @@ function update() {
   } else if (s < 0) {
     raqam.style.color = "red";
   } else {
-    raqam.style.color = "orange"; 
+    raqam.style.color = "yellow"; 
   }
 
 
